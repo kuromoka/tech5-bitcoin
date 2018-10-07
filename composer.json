@@ -1,0 +1,13 @@
+{
+    "name": "kuromoka/tech5-bitcoin",
+    "description": "This package is sample for techbookfest5.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kuromoka",
+            "email": "kuromokapb@gmail.com"
+        }
+    ],
+    "require": {}
+}
