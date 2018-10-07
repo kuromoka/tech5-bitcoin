@@ -9,5 +9,10 @@
             "email": "kuromokapb@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tech5Bitcoin\\": "src"
+        }
+    }
 }
